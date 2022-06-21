@@ -1,0 +1,74 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.6",
+    "@david.kucsai/react-pdf-table": "^0.3.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "@reach/combobox": "^0.11.2",
+    "@react-google-maps/api": "^1.13.0",
+    "@react-pdf/renderer": "^1.6.12",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "date-fns": "^2.16.1",
+    "faker": "^5.1.0",
+    "file-saver": "^2.0.2",
+    "firebase": "^7.22.1",
+    "firebase-admin": "^9.2.0",
+    "firestore-export-import": "^0.8.0",
+    "fs": "0.0.1-security",
+    "google-maps-react": "^2.0.6",
+    "jspdf": "^2.1.1",
+    "pdfmake": "^0.1.68",
+    "react": "^16.13.1",
+    "react-bootstrap": "^0.32.4",
+    "react-charts": "^2.0.0-beta.7",
+    "react-dom": "^16.13.1",
+    "react-geocode": "^0.2.2",
+    "react-google-autocomplete": "^1.2.6",
+    "react-google-maps": "^9.4.5",
+    "react-hook-google-maps": "0.0.3",
+    "react-html2pdf": "^1.0.1",
+    "react-html5-camera-photo": "^1.5.4",
+    "react-pdf": "^5.0.0",
+    "react-responsive": "^8.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-signature-canvas": "^1.0.3",
+    "react-super-responsive-table": "^5.1.2",
+    "react-swipeable-views": "^0.13.9",
+    "react-to-pdf": "0.0.13",
+    "react-to-print": "^2.10.3",
+    "react-webcam": "^5.2.1",
+    "recharts": "^1.8.5",
+    "use-places-autocomplete": "^1.5.7",
+    "victory": "^35.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

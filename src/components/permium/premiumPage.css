@@ -1,0 +1,24 @@
+body {margin:0;}
+.icon-bar-premium {
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+  }
+  .icon-bar-premium a {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 2px 0;
+    transition: all 0.3s ease;
+    color: rgb(97, 97, 97);
+    font-size: 36px;
+  }
+  .icon-bar-premium a:hover {
+    background-color: rgba(100, 100, 100, 0.082);
+  }
+  
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  
